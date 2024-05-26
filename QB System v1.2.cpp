@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//QT System v1.2
+#include <iostream>
 #include <conio.h> //包含 getch 函数
 #include <Windows.h>
 
