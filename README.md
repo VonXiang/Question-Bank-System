@@ -2,7 +2,7 @@ The construction of the Question-Bank-System began in early April 2024, and vers
 
 The latest version<br />
 ---
-**The description of the version 1.2.2:** this is the latest version of the QB System. The visual UI was added, and you can change text color of the system. The question bank was increased. We also fixed bugs. But the only language which we support is Chinese.
+**The description of the version 1.2.2:** this is the latest version of the QB System. The visual UI was added, and you can change text color of the system. The question bank was increased. We also fixed bugs. But the only language we have been supported is Chinese.
 
 There are three modes in the system: Select Mode, Random Mode, and Chemical Mode, and three fuction button: Setting Options, Instructions, and Exit System. You can select modes by the numbers on the keyboard, and each mode is accompanied by a text description under the screen. You can also exit when you want to back to the home page.<br />
 
